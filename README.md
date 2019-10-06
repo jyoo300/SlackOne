@@ -1,3 +1,6 @@
+## SlackOne
+A React/Redux project modeled after Slack. Features channels and a direct messaging feature using the Chatkit API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
