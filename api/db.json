@@ -1,0 +1,50 @@
+//stores channels, posts, and replies data
+
+{
+  "channels": [
+    {
+      "name": "general",
+      "body": "A channel for general discussion.",
+      "id": 4
+    },
+    {
+      "name": "general",
+      "body": "A channel for general purposes.",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "name": "UserName101",
+      "body": "Sample text",
+      "channelId": "4",
+      "id": 1
+    },
+    {
+      "name": "w'll see",
+      "body": "swe",
+      "channelId": "5",
+      "id": 2
+    },
+    {
+      "name": "d",
+      "body": "d",
+      "channelId": "5",
+      "id": 3
+    }
+  ],
+  "replies": [
+    {
+      "name": "UserName101",
+      "body": "Sample text",
+      "postId": "1",
+      "id": 1
+    },
+    {
+      "name": "goodbye",
+      "body": "so long farewell",
+      "postId": "1",
+      "id": 3
+    }
+  ]
+}
