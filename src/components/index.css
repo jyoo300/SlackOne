@@ -1,0 +1,24 @@
+.center {
+	position: absolute;
+	left: 165px;
+	top: 70px;
+}
+
+.right {
+	position: absolute;
+	left: 166px;
+	width: 2000px;
+}
+
+.left {
+	position: absolute;
+	width: 2000px;
+}
+
+.down {
+	position: absolute;
+	top: 65px;
+	left: 165px;
+}
+
+li {list-style-type: none;}
